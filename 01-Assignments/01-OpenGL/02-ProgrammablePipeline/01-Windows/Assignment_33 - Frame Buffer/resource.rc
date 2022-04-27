@@ -1,0 +1,3 @@
+#include "resource.h"
+
+ID_BITMAP BITMAP "marble.bmp"
